@@ -9,6 +9,22 @@ d = {
     "email":"'kaniahkjadhaw@gmail.com",
     "surname": "jadhaw"
 }
+
+d = {
+    "name":"kanishk",
+    "email":"'kaniahkjadhaw@gmail.com",
+    "surname": "jadhaw"
+}
+d = {
+    "name":"kanishk",
+    "email":"'kaniahkjadhaw@gmail.com",
+    "surname": "jadhaw"
+}
+d = {
+    "name":"kanishk",
+    "email":"'kaniahkjadhaw@gmail.com",
+    "surname": "jadhaw"
+}
 db1 = client['mongotest']
 coll = db1['test']
 coll.insert_one(d)
